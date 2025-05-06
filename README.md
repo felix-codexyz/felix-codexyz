@@ -6,6 +6,9 @@
 
 <h3 align="center">A passionate DevSecOps & Multi-Cloud Consultant. I work in the Corporate IT Sector and in my free time I make YouTube videos at <a href="https://www.youtube.com/@SuccPinnCloudDevOps" target="_blank">SuccPinnCloudDevOps</a></h3>
 
+> **"Helping people crack DevOps with real-world knowledge. Let’s build and automate the future, one pipeline at a time!"**
+
+
 <p align="center">
   <a href="https://github.com/felix-codexyz">
     <img src="https://img.shields.io/github/followers/felix-codexyz?label=Follow&style=social" />
@@ -86,7 +89,7 @@
 📧 Let’s chat: [office@succpinnsolutions.com](mailto:office@succpinnsolutions.com)
 
 
-> *"Helping people crack DevOps with real-world knowledge. Let’s build and automate the future, one pipeline at a time!"*
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/felix-codexyz/felix-codexyz/output/github-snake-dark.svg" />
@@ -94,3 +97,9 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/felix-codexyz/felix-codexyz/output/github-snake.svg" />
 </picture>
 # felix-codexyz
+
+---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=felix-codexyz&label=Profile%20views&color=0e75b6&style=flat" alt="felix-codexyz" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felix-codexyz" alt="felix-codexyz" /></a> </p>
