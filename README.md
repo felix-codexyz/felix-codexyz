@@ -4,7 +4,7 @@
   <img src="https://github.com/felix-codexyz/felix-codexyz/blob/main/Banner.png" alt="Succpinn Solutions Banner">
 </div>
 
-<h3 align="center">A passionate DevSecOps & Multi-Cloud Consultant. I work in the Corporate IT Sector and in my free time I make YouTube videos at <a href="https://www.youtube.com/@SuccPinnCloudDevOps" target="_blank">SuccPinn Solutions</a></h3>
+<h3 align="center">A passionate DevSecOps & Multi-Cloud Consultant. I work in the Corporate IT Sector and in my free time I make YouTube videos at <a href="https://www.youtube.com/@SuccPinnCloudDevOps" target="_blank">SuccPinnCloudDevOps</a></h3>
 
 <p align="center">
   <a href="https://github.com/felix-codexyz">
