@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone 👋, I'm Felix Momodebe</h1>
 
 <div align="center">
-  <img src="https://github.com/felix-081/felix-081/blob/main/Banner.png" alt="Succpinn Solutions Banner">
+  <img src="https://github.com/felix-codesxyz/felix-codexyz/blob/main/Banner.png" alt="Succpinn Solutions Banner">
 </div>
 
 <h3 align="center">A passionate DevSecOps & Multi-Cloud Consultant. I work in the Corporate IT Sector and in my free time I make YouTube videos at <a href="https://www.youtube.com/@SuccPinnCloudDevOps" target="_blank">SuccPinn Solutions</a></h3>
@@ -89,8 +89,8 @@
 > *"Helping people crack DevOps with real-world knowledge. Let’s build and automate the future, one pipeline at a time!"*
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/felix-081/felix-081/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/felix-081/felix-081/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/felix-081/felix-081/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/felix-codesxyz/felix-codexyz/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/felix-codesxyz/felix-codexyz/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/felix-codesxyz/felix-codexyz/output/github-snake.svg" />
 </picture>
 # felix-codexyz
