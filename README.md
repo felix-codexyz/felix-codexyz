@@ -7,8 +7,8 @@
 <h3 align="center">A passionate DevSecOps & Multi-Cloud Consultant. I work in the Corporate IT Sector and in my free time I make YouTube videos at <a href="https://www.youtube.com/@SuccPinnCloudDevOps" target="_blank">SuccPinn Solutions</a></h3>
 
 <p align="center">
-  <a href="https://github.com/felix-081">
-    <img src="https://img.shields.io/github/followers/felix-081?label=Follow&style=social" />
+  <a href="https://github.com/felix-codexyz">
+    <img src="https://img.shields.io/github/followers/felix-codexyz?label=Follow&style=social" />
   </a>
   <a href="https://www.youtube.com/@SuccPinnCloudDevOps">
     <img src="https://img.shields.io/youtube/channel/subscribers/UC1XLb_DoX2eNWGKjkh2epwA?style=social" />
@@ -21,10 +21,10 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=felix-081&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=felix-codexyz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/felix-081](https://github.com/felix-081)  
+- 👨‍💻 All of my projects are available at [https://github.com/felix-codexyz](https://github.com/felix-codexyz)  
 - 💬 Ask me about **DevOps, DevSecops, Cloud, FinOps**  
 - 📫 How to reach me **office@succpinnsolutions.com**
 
@@ -62,9 +62,9 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felix-081&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felix-codexyz&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felix-081&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felix-codexyz&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
 
 ---
 ### 🔥 GitHub Contribution Streak
@@ -74,7 +74,7 @@
 ---
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=felix-081&limit=5&theme=flat&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=felix-codexyz&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ---
 
