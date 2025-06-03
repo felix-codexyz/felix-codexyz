@@ -18,14 +18,13 @@
   </a>
   <a href="https://www.linkedin.com/in/felix-momodebe-31b61966/">
     <img src="https://img.shields.io/badge/LinkedIn-Felix%20Momodebe-blue?logo=linkedin&style=flat-square" />
+     <img src="https://komarev.com/ghpvc/?username=felix-codexyz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=felix-codexyz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/felix-codexyz](https://github.com/felix-codexyz)  
 - 💬 Ask me about **DevOps, DevSecops, Cloud, FinOps**  
