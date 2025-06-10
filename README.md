@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/github/followers/felix-codexyz?label=Follow&style=social" />
   </a>
   <a href="https://www.youtube.com/@SuccPinnCloudDevOps">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UC1XLb_DoX2eNWGKjkh2epwA?style=social" />
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCAm-2i-yDDWQu-WiCBNvZdQ?style=social" />
   </a>
   <a href="https://www.linkedin.com/in/felix-momodebe-31b61966/">
     <img src="https://img.shields.io/badge/LinkedIn-Felix%20Momodebe-blue?logo=linkedin&style=flat-square" />
